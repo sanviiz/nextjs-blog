@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is a [link](https://sanviiz-blog.vercel.app/) of project.
