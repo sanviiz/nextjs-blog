@@ -17,7 +17,7 @@ export default function Home({ allPostsData }) {
           telecommunication engineering student.
         </p>
         <p>
-          (You can contract me on{" "}
+          (You can contact me on{" "}
           <a href="https://www.facebook.com/near.n.river.14/">Facebook</a>.)
         </p>
       </section>
